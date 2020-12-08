@@ -1,0 +1,3 @@
+A quick mini program to convert .jpg images to .tif in an out directory.
+Requires scikit-image.
+:)
